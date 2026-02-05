@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.7](https://github.com/rubix-studios-pty-ltd/payload-images/compare/v1.0.6...v1.0.7) (2026-02-05)
+
+
+### Bug Fixes
+
+* image first load undefined. ([721e329](https://github.com/rubix-studios-pty-ltd/payload-images/commit/721e3296f75163d8095a45e45389898f0fd8f8da))
+
 ## [1.0.6](https://github.com/rubix-studios-pty-ltd/payload-images/compare/v1.0.5...v1.0.6) (2026-01-30)
 
 
