@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.9](https://github.com/rubix-studios-pty-ltd/payload-images/compare/v1.0.8...v1.0.9) (2026-02-06)
+
+
+### Bug Fixes
+
+* remove peerDependencies for payload ([a8c237e](https://github.com/rubix-studios-pty-ltd/payload-images/commit/a8c237e3d27e5c5ae4dde572834583ece34e83a9))
+
 ## [1.0.8](https://github.com/rubix-studios-pty-ltd/payload-images/compare/v1.0.7...v1.0.8) (2026-02-06)
 
 
