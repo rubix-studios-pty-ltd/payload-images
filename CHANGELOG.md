@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# [1.1.0](https://github.com/rubix-studios-pty-ltd/payload-images/compare/v1.0.10...v1.1.0) (2026-02-13)
+
+
+### Features
+
+* expand gitignore coverage and update dependencies ([c7f543d](https://github.com/rubix-studios-pty-ltd/payload-images/commit/c7f543d77494649bbf4a0ef5faed0bcbb146c861))
+* upgrade Payload CMS from v3.75.0 to v3.76.0 ([4417ecf](https://github.com/rubix-studios-pty-ltd/payload-images/commit/4417ecfd31f1a1b377340363e736dcc60506f988))
+
 ## [1.0.10](https://github.com/rubix-studios-pty-ltd/payload-images/compare/v1.0.9...v1.0.10) (2026-02-06)
 
 
