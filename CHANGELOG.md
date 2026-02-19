@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.2](https://github.com/rubix-studios-pty-ltd/payload-images/compare/v1.1.1...v1.1.2) (2026-02-19)
+
+
+### Bug Fixes
+
+* update @payloadcms/ui and payload dependencies to latest versions ([ee6101d](https://github.com/rubix-studios-pty-ltd/payload-images/commit/ee6101d0e6f9043ffc0b550348570984c34114ca))
+* update biome and rimraf dependencies, and bump package manager version ([8269bfc](https://github.com/rubix-studios-pty-ltd/payload-images/commit/8269bfcc36031544bed5edc0f377e224f0aabc23))
+* update biome configuration to ignore specific directories and bump package versions ([f5f809d](https://github.com/rubix-studios-pty-ltd/payload-images/commit/f5f809dfadc34cbd66879fff26fcaec0bec7e778))
+* update biome schema version and format package.json files array ([1d9be1e](https://github.com/rubix-studios-pty-ltd/payload-images/commit/1d9be1e70036b88bcfc1b9a49beb1326ed451f8b))
+
 ## [1.1.1](https://github.com/rubix-studios-pty-ltd/payload-images/compare/v1.1.0...v1.1.1) (2026-02-14)
 
 
