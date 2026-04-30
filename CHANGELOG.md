@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.6](https://github.com/rubix-studios-pty-ltd/payload-images/compare/v1.1.5...v1.1.6) (2026-04-30)
+
+
+### Bug Fixes
+
+* update babel parser and b4a versions in pnpm-lock.yaml; format fetchCache call in SearchImages component ([38b658e](https://github.com/rubix-studios-pty-ltd/payload-images/commit/38b658e1c65cb5e8ade89bc364639bcbd7a16580))
+
 ## [1.1.5](https://github.com/rubix-studios-pty-ltd/payload-images/compare/v1.1.4...v1.1.5) (2026-04-28)
 
 
