@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# [1.2.0](https://github.com/rubix-studios-pty-ltd/payload-images/compare/v1.1.6...v1.2.0) (2026-05-06)
+
+
+### Bug Fixes
+
+* **releaserc:** add releaseRules to commit-analyzer configuration ([0b2fa24](https://github.com/rubix-studios-pty-ltd/payload-images/commit/0b2fa24feeeeb89172029cc3d9be1ac1248111a9))
+
+
+### Features
+
+* **releaserc:** simplify commit analyzer configuration by removing release rules ([110c320](https://github.com/rubix-studios-pty-ltd/payload-images/commit/110c3207d951b64e32ea50717244082f43825b64))
+
 ## [1.1.6](https://github.com/rubix-studios-pty-ltd/payload-images/compare/v1.1.5...v1.1.6) (2026-04-30)
 
 
