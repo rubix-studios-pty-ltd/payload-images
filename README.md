@@ -1,3 +1,5 @@
+# ⚠️ Deprecated: Migrated to PayloadCMS Media
+
 # PayloadCMS Image Search Plugin
 
 PayloadCMS plugin for stock image search across Unsplash, Pexels, and Pixabay, with filterable results and instant import.
